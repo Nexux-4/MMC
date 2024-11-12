@@ -5,7 +5,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 Link do Padlet:
 
-## 1. Introduçãoaaa
+## 1. Introdução
 
 ***1.1.  Nome do Grupo***
 
