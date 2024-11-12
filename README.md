@@ -7,7 +7,7 @@ Link do Padlet:
 
 ## 1. Introdução
 
-***1.1.  Nome do Grupo***
+***1.1.  Nexux***
 
 NOME                               |GitHub
 -----------------------------------|----------------------------------------
@@ -16,25 +16,32 @@ Rafael Tomé da Silva               |-> https://github.com/RafaelTomee
 Silvio Henrique Mendes dos Santos  |-> https://github.com/silvioGPS
 Gustavo Gonçaves de Barros         |-> https://github.com/GustavoGBarros
 Jefferson Lima Silva               |-> https://github.com/JeffersonLimaSilva
+----------------------------------------------------------------------------
 
 ***1.2.  Nome do Sistema***
-
-Indicar o nome do software proposto
+MMC
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
-
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O MMC é um sistema completo para gerenciamento de operações comerciais, que abrange desde o controle de estoque até o gerenciamento financeiro. Seu objetivo é otimizar o processo de administração das lojas de conveniência e lanchonetes independentes, proporcionando maior eficiência, redução de erros e tomada de decisões mais assertivas.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+O sistema MMC é voltado para lojas de conveniência e lanchonetes independentes que necessitam de uma solução prática e eficaz para administrar suas operações de forma integrada. O foco está em negócios de pequeno a médio porte, que buscam uma plataforma intuitiva e acessível, com o objetivo de otimizar suas rotinas diárias e reduzir os custos operacionais.
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+    Idade: 30 a 50 anos
+    Formação: Empresários ou profissionais com experiência em gestão de pequenos negócios, como donos de lanchonetes ou lojas de conveniência.
+    Objetivos: Obter uma visão geral e detalhada das operações, controlar estoques, gerenciar finanças e otimizar a tomada de decisões com base em relatórios detalhados.
 
+Principais Tarefas:
+
+    Visualizar relatórios de vendas, lucros e despesas.
+    Gerenciar o estoque, incluindo compras e reposição de produtos.
+    Analisar o fluxo de caixa e controlar as finanças do negócio.
+    Monitorar o desempenho da equipe e realizar ajustes operacionais.
+    
 ***Personas:***
 
 *<Imagem, arquivo (PDF), link com as Personas.>*
