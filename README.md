@@ -49,8 +49,46 @@ Principais Tarefas:
 ***Análise da situação atual: antes da introdução de sua solução***
 
 *`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
+Antes da introdução do sistema MMC, as operações em lojas de conveniência e lanchonetes independentes muitas vezes são feitas
+de maneira manual ou utilizando ferramentas isoladas, como planilhas de Excel, anotações em papel, ou sistemas específicos de
+cada área (estoque, financeiro, vendas). Isso resulta em um processo fragmentado e ineficiente, com risco de erros, falta de 
+visibilidade e dificuldades para integrar informações.
+
+Geralmente, os donos ou gerentes são responsáveis por tudo, desde a gestão do estoque até o controle financeiro. Muitas vezes,
+eles não têm uma visão clara de como as finanças e o estoque estão realmente sendo gerenciados, já que dependem de relatórios 
+manuais e não têm acesso a informações em tempo real.
+
+*************`2. Quais os artefatos envolvidos?`*****************
+
+Planilhas de Excel:
+Usadas para o controle de estoque, fluxo de caixa e registros de vendas. Embora amplamente utilizadas, as planilhas são
+suscetíveis a erros, inconsistências e falta de atualização em tempo real, além de dificultarem a análise de dados em conjunto.
+
+Anotações manuais:
+O uso de cadernos ou papéis para registrar informações sobre vendas, reposições de estoque e outras atividades operacionais é comum.
+Esse processo é altamente propenso a erros, perda de informações e falta de padronização.
+
+Sistemas de PDV isolados:
+Embora as lojas de conveniência e lanchonetes usem sistemas de PDV para registrar vendas e pagamentos, esses sistemas geralmente não
+estão conectados a outras áreas do negócio (estoque, finanças), o que dificulta a visão integrada da operação.
+
+Relatórios financeiros manuais:
+Muitos negócios ainda dependem de relatórios financeiros feitos manualmente, o que gera atrasos na entrega de informações precisas e
+dificulta a tomada de decisões rápidas e informadas.
+
+Controle de estoques em papel:
+O controle de entradas e saídas de mercadorias muitas vezes é feito com anotações manuais ou simples planilhas, o que pode resultar em
+desvios, desorganização e dificuldade de rastrear a origem de problemas no estoque (como falta ou excesso de produtos).
+
 *`3. O que elas precisam saber?`*
+
+As pessoas que operam em lojas de conveniência e lanchonetes independentes, para otimizar suas funções, precisam de acesso a informações
+claras, precisas e em tempo real para facilitar a tomada de decisões, aumentar a eficiência e evitar erros.
+
+Visão financeira detalhada: Precisam entender o fluxo de caixa, as despesas e as receitas em tempo real para garantir a saúde financeira do negócio.
+Análises de desempenho: Como as vendas estão se comportando, quais produtos estão tendo maior saída, qual é a rentabilidade por categoria e outros 
+indicadores de performance.Situação do estoque: Quais produtos estão em falta, quais precisam ser reabastecidos ou descartados, e se há itens com
+validade próxima do vencimento.
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
