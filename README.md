@@ -9,7 +9,13 @@ Link do Padlet:
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+NOME                               |GitHub
+-----------------------------------|----------------------------------------
+Julio Cesar Giandoso Filho         |-> https://github.com/JuliooCezar
+Rafael Tomé da Silva               |-> https://github.com/RafaelTomee
+Silvio Henrique Mendes dos Santos  |-> https://github.com/silvioGPS
+Gustavo Gonçaves de Barros         |-> https://github.com/GustavoGBarros
+Jefferson Lima Silva               |-> https://github.com/JeffersonLimaSilva
 
 ***1.2.  Nome do Sistema***
 
