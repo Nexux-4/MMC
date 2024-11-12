@@ -3,7 +3,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet:https://padlet.com/silviohenriquemnds/meu-padlet-requintado-tkvo6qru5c0ilzyc
 
 ## 1. Introdução
 
