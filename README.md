@@ -44,7 +44,7 @@ Principais Tarefas:
     
 ***Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+![Nome Judite Garcia](https://github.com/user-attachments/assets/74b049b0-173d-4f14-94c9-5d7f79684c85)
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
