@@ -111,7 +111,7 @@ validade próxima do vencimento.
 *<Link, imagem, arquivo com os requisitos funcionais.>*
 
 Identificador   | Descrição                                                                     | Prioridade       | Dependente      | 
---------------------------------------------------------------------------------------------------------------------------------------
+----------------|-------------------------------------------------------------------------------|------------------|------------------
 ->RF01          | O sistema deve permitir que o usuário consulte, adicione, edite e remova      | Alta                               |
                 | produtos do estoque, incluindo informações como quantidade, preço, validade   |                                    |
                 | e descrição.                                                                  |                                    |
@@ -145,7 +145,7 @@ Identificador   | Descrição                                                   
 ->RF10          | O sistema deve conectar o sistema a terminais de ponto de venda (PDV) para    | Alta               RF04, RF01      |
                 | automatizar a entrada de vendas no sistema e manter os dados sincronizados em |                                    | 
                 | tempo real.                                                                   |                                    | 
-----------------|-------------------------------------------------------------------------------|------------------------------------|                             
+--------------------------------------------------------------------------------------------------------------------------------------                            
 
 ***2.2. Requisitos Não Funcionais***
 
