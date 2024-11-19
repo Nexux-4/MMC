@@ -112,9 +112,9 @@ validade próxima do vencimento.
 
 Identificador   | Descrição                                                                     | Prioridade       | Dependente       
 ----------------|-------------------------------------------------------------------------------|------------------|------------------
-->RF01          | O sistema deve permitir que o usuário consulte, adicione, edite e remova      | Alta                               
-                | produtos do estoque, incluindo informações como quantidade, preço, validade   |                                    
-                | e descrição.                                                                  |                                    
+->RF01          | O sistema deve permitir que o usuário consulte, adicione, edite e remova      | Alta             |                  
+                | produtos do estoque, incluindo informações como quantidade, preço, validade   |                  |                  
+                | e descrição.                                                                  |                  |                  
  
 ----------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                        
 ->RF02          | O sistema deve permitir gerar relatórios detalhados e gráficos que apresentem | Alta               RF04, RF03, RF01
