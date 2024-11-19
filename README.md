@@ -112,37 +112,37 @@ validade próxima do vencimento.
 
 Identificador   | Descrição                                                                     | Prioridade       | Dependente      | 
 --------------------------------------------------------------------------------------------------------------------------------------
-RF01            | O sistema deve permitir que o usuário consulte, adicione, edite e remova      | Alta             |                 |
+->RF01          | O sistema deve permitir que o usuário consulte, adicione, edite e remova      | Alta             |                 |
                 | produtos do estoque, incluindo informações como quantidade, preço, validade   |                  |                 |
                 | e descrição.                                                                  |                  |                 |
---------------------------------------------------------------------------------------------------------------------------------------
-RF02            | O sistema deve permitir gerar relatórios detalhados e gráficos que apresentem | Alta             | RF04, RF03, RF01|
+                |                                                                               |                  |                 |     
+->RF02          | O sistema deve permitir gerar relatórios detalhados e gráficos que apresentem | Alta             | RF04, RF03, RF01|
                 | receitas, despesas, lucros, fluxo de caixa e vendas diárias, semanais ou      |                  |                 |
                 | mensais.                                                                      |                  |                 |
---------------------------------------------------------------------------------------------------------------------------------------                
-RF03            | O sistema deve possibilitar o cadastro, edição e exclusão de clientes e       | Média            | RF04, RF02      |
+                |                                                                               |                  |                 |     
+->RF03          | O sistema deve possibilitar o cadastro, edição e exclusão de clientes e       | Média            | RF04, RF02      |
                 | fornecedores, incluindo informações como nome, contato, histórico de          |                  |                 |
                 | compras/vendas e pagamentos realizados.                                       |                  |                 | 
---------------------------------------------------------------------------------------------------------------------------------------      
-RF04            | O sistem deve realizar transações de venda com cálculos automáticos de        | Alta             | RF03, RF01      |
+                |                                                                               |                  |                 |     
+->RF04          | O sistem deve realizar transações de venda com cálculos automáticos de        | Alta             | RF03, RF01      |
                 | valores, aplicação de descontos e emissão de recibos ou notas fiscais.        |                  |                 | 
---------------------------------------------------------------------------------------------------------------------------------------     
-RF05            | O sistema deve permitir o registro, consulta e acompanhamento de feedbacks dos| Baixa            |                 |
+                |                                                                               |                  |                 |     
+->RF05          | O sistema deve permitir o registro, consulta e acompanhamento de feedbacks dos| Baixa            |                 |
                 | clientes sobre produtos e serviços, com opções para marcar o status.          |                  |                 | 
---------------------------------------------------------------------------------------------------------------------------------------
-RF06            | O sistema deve Enviar alertas para o usuário sobre produtos com baixa         | Média            | RF01            |
+                |                                                                               |                  |                 |     
+->RF06          | O sistema deve Enviar alertas para o usuário sobre produtos com baixa         | Média            | RF01            |
                 | quantidade em estoque ou validade próxima do vencimento.                      |                  |                 |
---------------------------------------------------------------------------------------------------------------------------------------
-RF07            | O sistema deve fornecer uma interface inicial com informações consolidadas em | Alta             | RF04, RF02, RF01|
+                |                                                                               |                  |                 |     
+->RF07          | O sistema deve fornecer uma interface inicial com informações consolidadas em | Alta             | RF04, RF02, RF01|
                 | tempo real sobre vendas, estoque, fluxo de caixa e desempenho geral.          |                  |                 | 
---------------------------------------------------------------------------------------------------------------------------------------
-RF08            | O sistema deve disponibilizar uma funcionalidade de pesquisa para localizar   | Média            | RF04, RF03, RF01|
+                |                                                                               |                  |                 |     
+->RF08          | O sistema deve disponibilizar uma funcionalidade de pesquisa para localizar   | Média            | RF04, RF03, RF01|
                 | produtos, clientes, fornecedores ou transações rapidamente.                   |                  |                 |
---------------------------------------------------------------------------------------------------------------------------------------
-RF09            | O sistema deve implementar autenticação e controle de acesso, definindo       | Alta             |                 |
+                |                                                                               |                  |                 |     
+->RF09          | O sistema deve implementar autenticação e controle de acesso, definindo       | Alta             |                 |
                 |diferentes níveis de permissão para usuários, como administradores e operadores|                  |                 | 
---------------------------------------------------------------------------------------------------------------------------------------
-RF10            | O sistema deve conectar o sistema a terminais de ponto de venda (PDV) para    | Alta             | RF04, RF01      |
+                |                                                                               |                  |                 |     
+->RF10          | O sistema deve conectar o sistema a terminais de ponto de venda (PDV) para    | Alta             | RF04, RF01      |
                 | automatizar a entrada de vendas no sistema e manter os dados sincronizados em |                  |                 | 
                 | tempo real.                                                                   |                  |                 | 
 ----------------|-------------------------------------------------------------------------------|------------------|-----------------|                             
