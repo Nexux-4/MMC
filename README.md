@@ -110,6 +110,9 @@ validade próxima do vencimento.
 
 *<Link, imagem, arquivo com os requisitos funcionais.>*
 Tabela Requisitos funcionais: https://github.com/user-attachments/assets/c399ee07-7b1a-4d04-ad39-f7d0600bf1c8
+
+| Identificador | Descrição | Prioridade | | Dependente | |----------|:-------------:|------:| 
+| ->RF01| teste | Alta |
                          
 
 ***2.2. Requisitos Não Funcionais***
