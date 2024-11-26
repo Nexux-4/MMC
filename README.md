@@ -144,6 +144,93 @@ Tabela Requisitos funcionais: https://github.com/user-attachments/assets/c399ee0
 ***2.3. Perguntas***
 
 *<Arquivo com as perguntas realizadas na entrevista .>*
+---
+
+## 🎯 *Objetivo*
+Realizar entrevistas para entender:
+- As dificuldades enfrentadas pela loja no dia a dia.
+- Como os stakeholders (gestores, funcionários e clientes) interagem com os processos atuais.
+- Quais funcionalidades um sistema de gerenciamento pode oferecer para facilitar e melhorar o negócio.
+
+---
+
+## 🧑‍💻 *Planejamento da Entrevista*
+
+### *Por que?*
+Entender as dificuldades, necessidades e oportunidades de melhorias na gestão da loja.
+
+### *Quem?*
+- *Perfil dos entrevistados:*  
+  - Proprietária (gestora da loja).  
+  - Funcionários, se houver.  
+  - Clientes frequentes, se possível.  
+
+### *Quando?*
+- *Horário sugerido:* Fora do período de maior movimento da loja (antes da abertura ou após o fechamento).
+
+### *Onde?*
+- Local: Na própria loja, para facilitar a coleta de informações e análise do ambiente.
+
+### *Como?*
+- *Formato:*  
+  - Perguntas abertas e fechadas.  
+  - Registro por anotações e, se possível, gravação de áudio (com consentimento).  
+
+---
+
+## 📝 *Perguntas para Entrevista*
+
+### *1. Perguntas Abertas*  
+1. Quais são as principais dificuldades que você enfrenta no dia a dia da loja?  
+2. Como é feito o controle de estoque atualmente? Existem problemas nesse processo?  
+3. Quais informações você gostaria de acessar de forma rápida, como relatórios de vendas ou controle financeiro?  
+4. Há algum processo que consome muito tempo e poderia ser automatizado?  
+5. Como você se comunica com os clientes? Existem dificuldades nesse processo?  
+6. Quais melhorias poderiam aumentar a satisfação dos clientes?  
+7. Você já utiliza alguma ferramenta ou software para gerenciar a loja? O que funciona bem e o que não funciona?  
+8. Quais são os produtos mais vendidos e os horários de maior movimento?  
+
+---
+
+### *2. Perguntas Fechadas*  
+1. *Como os clientes costumam pagar?*  
+   - [ ] Dinheiro  
+   - [ ] Cartão de crédito/débito  
+   - [ ] Pix  
+   - [ ] Outros: ___  
+
+2. *Você gostaria que o sistema gerasse relatórios sobre:*  
+   - [ ] Vendas diárias  
+   - [ ] Controle de estoque  
+   - [ ] Lucro e despesas  
+   - [ ] Todos os itens acima  
+
+3. *A loja já oferece algum serviço adicional?*  
+   - [ ] Sim, quais? ___  
+   - [ ] Não  
+
+4. *Como o estoque é controlado atualmente?*  
+   - [ ] Planilhas  
+   - [ ] Anotações manuais  
+   - [ ] Não há controle organizado  
+   - [ ] Outro: ___  
+
+5. *Você sente necessidade de acessar o sistema pelo celular?*  
+   - [ ] Sim  
+   - [ ] Não  
+
+6. *Com que frequência você atualiza os preços dos produtos?*  
+   - [ ] Diariamente  
+   - [ ] Semanalmente  
+   - [ ] Mensalmente  
+   - [ ] Raramente  
+
+7. *Os clientes já solicitaram algum tipo de serviço online, como pedidos via aplicativo ou site?*  
+   - [ ] Sim  
+   - [ ] Não  
+
+---
+
 
 ***2.4. Entrevista***
 
