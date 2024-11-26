@@ -114,7 +114,6 @@ Tabela Requisitos funcionais: https://github.com/user-attachments/assets/c399ee0
 ***2.2. Requisitos Não Funcionais***
 
 *<Link, imagem, arquivo com os requisitos não funcionais.>*
-file:///C:/Users/Julio/AppData/Local/Temp/Rar$EXa0.519/RequisitodeSoftware.html
 ***2.3. Perguntas***
 
 *<Arquivo com as perguntas realizadas na entrevista .>*
