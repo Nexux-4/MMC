@@ -98,11 +98,25 @@ validade próxima do vencimento.
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Judite é proprietária de uma loja de conveniência e enfrenta dificuldades na gestão de seu negócio. Ela usa cadernos para registrar a entrada e saída de produtos e planilhas no Excel para controlar as finanças. O controle de estoque é manual, e as anotações frequentemente levam a erros.
+
+Judite explica para sua funcionária Maria como verificar manualmente os produtos nas prateleiras para evitar rupturas de estoque. Maria realiza a contagem ao final do dia e comunica os itens que precisam ser repostos.
+
+Judite, no entanto, muitas vezes não percebe que os produtos mais vendidos estão acabando antes que o pedido seja realizado. Além disso, ela não tem tempo para verificar o fluxo de caixa regularmente, o que a deixa preocupada com a saúde financeira da loja.
+
+A falta de controle eficiente faz com que Judite perca vendas importantes e acabe com produtos em excesso que não vendem, gerando prejuízo. Esse cenário a deixa estressada e desmotivada.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Judite agora utiliza o sistema MMC para gerenciar sua loja de conveniência de forma integrada e eficiente. Através de uma interface intuitiva, ela registra e monitora o estoque, controla as finanças e organiza vendas em tempo real.
+
+Judite ensina Maria a acessar o sistema para verificar os produtos com baixa quantidade em estoque. Com as notificações automáticas do sistema, Maria sabe exatamente quais itens precisam ser repostos sem precisar realizar contagens manuais diárias.
+
+Após implementar o MMC, Judite recebe relatórios detalhados no painel de controle e percebe que as vendas de produtos populares aumentaram devido ao melhor controle de estoque. Ela também organiza o fluxo de caixa semanalmente com base nos relatórios financeiros gerados automaticamente.
+
+Maria utiliza a funcionalidade de pesquisa do sistema para localizar rapidamente produtos ou fornecedores, economizando tempo nas operações diárias. Judite sente-se mais confiante na gestão do negócio, agora que não precisa lidar com erros e desperdícios constantes.
+
+A integração e automação proporcionadas pelo MMC permitem que Judite e Maria tenham mais tempo para focar no atendimento ao cliente e na expansão da loja, melhorando significativamente a eficiência e o sucesso do negócio.
 
 ## 2. Documentos gerais no repositório
 
