@@ -1,4 +1,4 @@
-
+[Requisito de Software.md](https://github.com/user-attachments/files/17911283/Requisito.de.Software.md)
 # Projeto Disciplina: Requisitos de Software
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
@@ -113,7 +113,20 @@ Tabela Requisitos funcionais: https://github.com/user-attachments/assets/c399ee0
                          
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+| Identificador | Descrição | Categoria | Escopo | Prioridade |
+| :---- | :---- | :---- | :---- | :---- |
+| RNF01 | O sistema deve ser compatível com qualquer celular e computador | Portabilidade | Sistema | Alta |
+| RNF02 | Qualquer ação ou interação com o sistema deve ser monitorada, para fins de segurança | Segurança | Sistema | Alta |
+| RNF03 | O sistema será composto por um banco de dados onde seja possível consultar, alterar, adicionar e remover dados | Segurança | Sistema | Alta |
+| RNF04 | O sistema deve exibir uma notificação de **transação realizada** após o cliente efetuar a compra | Eficiência | Sistema | Média |
+| RNF05 | O sistema deverá armazenar e criptografar toda informação sigilosa na nuvem, preferencialmente em servidores Azure. | Segurança | Sistema | Alta |
+| RNF06 | O sistema deve funcionar somente em determinada rede TCP/IP | Segurança | Sistema | Alta |
+| RNF07 | O sistema deve enviar mensalmente um relatório sobre o faturamento e despesas | Entrega | Sistema | Alta |
+| RNF08 | O sistema deve agir conforme as regulamentações fiscais, tributárias, padronização da segurança de dados e conformidade com a defesa do consumidor | Legais | Sistema  | Alta |
+| RNF09 | O sistema deve ser integrado com um sistema NAS para armazenamento e recuperação de dados, garantindo compatibilidade com os protocolos SMB | Integração | Sistema | Alta |
+| RNF10 |  O sistema deve ser desenvolvida na linguagem de programação Java | Padrões | Sistema | Alta |
+
+
 ***2.3. Perguntas***
 
 *<Arquivo com as perguntas realizadas na entrevista .>*
