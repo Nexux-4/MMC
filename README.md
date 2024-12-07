@@ -238,7 +238,35 @@ Entender as dificuldades, necessidades e oportunidades de melhorias na gestão d
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+US001
+
+Como um usuário,
+Eu quero realizar meu cadastro e login,
+Para acessar as funcionalidades do sistema, como gerenciar produtos, clientes, fornecedores e transações.
+
+US002
+
+Como um usuário,
+Eu quero consultar, adicionar, editar e remover produtos do estoque,
+Para manter o controle preciso sobre a quantidade, preço, validade e descrição dos itens.
+
+US003
+
+Como um usuário,
+Eu quero gerar relatórios detalhados e gráficos,
+Para analisar receitas, despesas, lucros, fluxo de caixa e vendas diárias, semanais ou mensais de maneira visual e compreensível.
+
+US004
+
+Como um usuário,
+Eu quero cadastrar, editar e excluir clientes e fornecedores,
+Para manter um histórico completo de compras/vendas e pagamentos realizados.
+
+US005
+
+Como um usuário,
+Eu quero realizar transações de venda com cálculos automáticos de valores,
+Para aplicar descontos corretamente e emitir recibos ou notas fiscais automaticamente.
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
