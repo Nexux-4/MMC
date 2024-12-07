@@ -268,6 +268,36 @@ Como um usuário,
 Eu quero realizar transações de venda com cálculos automáticos de valores,
 Para aplicar descontos corretamente e emitir recibos ou notas fiscais automaticamente.
 
+US0006
+
+Como um usuário,
+Eu quero que o sistema seja compatível com qualquer celular e computador,
+Para poder acessá-lo de diferentes dispositivos, sem restrições de hardware.
+
+US0007
+
+Como um administrador,
+Eu quero que todas as ações ou interações no sistema sejam monitoradas para fins de segurança,
+Para garantir que todas as atividades possam ser auditadas e que o sistema seja seguro.
+
+US008
+
+Como um usuário,
+Eu quero que o sistema tenha um banco de dados onde seja possível consultar, alterar, adicionar e remover dados,
+Para que eu possa realizar operações de forma completa e eficiente.
+
+US009
+
+Como um cliente,
+Eu quero receber uma notificação de transação realizada após efetuar a compra,
+Para ter confirmação imediata da operação e a segurança de que a transação foi concluída corretamente.
+
+US010
+
+Como um usuário,
+Eu quero que todas as informações sigilosas sejam armazenadas e criptografadas na nuvem, preferencialmente em servidores Azure,
+Para garantir a proteção dos meus dados e a segurança no armazenamento de informações sensíveis.
+
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
