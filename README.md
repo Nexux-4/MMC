@@ -310,7 +310,8 @@ Para garantir a proteção dos meus dados e a segurança no armazenamento de inf
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+![Untitled diagram-2024-12-10-013519](https://github.com/user-attachments/assets/a175ef40-b5b1-4228-9039-965b2a772185)
+
 
 ***2.8. Matrizes de Rastreabilidade***
 
