@@ -133,7 +133,7 @@ Tabela Requisitos funcionais: https://github.com/user-attachments/assets/c399ee0
 | RNF02 | Qualquer ação ou interação com o sistema deve ser monitorada, para fins de segurança | Segurança | Sistema | Alta |
 | RNF03 | O sistema será composto por um banco de dados onde seja possível consultar, alterar, adicionar e remover dados | Segurança | Sistema | Alta |
 | RNF04 | O sistema deve exibir uma notificação de **transação realizada** após o cliente efetuar a compra | Eficiência | Sistema | Média |
-| RNF05 | O sistema deverá armazenar e criptografar toda informação sigilosa na nuvem, preferencialmente em servidores Azure. | Segurança | Sistema | Alta |
+| RNF05 | O sistema deverá manter toda informação sigilosa em um armazenamento criptografado na nuvem, preferencialmente em servidores Azure. | Segurança | Sistema | Alta |
 | RNF06 | O sistema deve funcionar somente em determinada rede TCP/IP | Segurança | Sistema | Alta |
 | RNF07 | O sistema deve enviar mensalmente um relatório sobre o faturamento e despesas | Entrega | Sistema | Alta |
 | RNF08 | O sistema deve agir conforme as regulamentações fiscais, tributárias, padronização da segurança de dados e conformidade com a defesa do consumidor | Legais | Sistema  | Alta |
