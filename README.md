@@ -122,8 +122,8 @@ A integração e automação proporcionadas pelo MMC permitem que Judite e Maria
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
-Tabela Requisitos funcionais: https://github.com/user-attachments/assets/c399ee07-7b1a-4d04-ad39-f7d0600bf1c8
+![requisitos funcionais](https://github.com/user-attachments/assets/5812066f-400c-4201-bb41-2a7ddc67f7a5)
+
                          
 ***2.2. Requisitos Não Funcionais***
 
