@@ -313,9 +313,10 @@ Para garantir a proteção dos meus dados e a segurança no armazenamento de inf
 ![Untitled diagram-2024-12-10-013519](https://github.com/user-attachments/assets/a175ef40-b5b1-4228-9039-965b2a772185)
 
 
-***2.8. Matrizes de Rastreabilidade***
+***2.8. Diagram de Classe***
 
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
+![diagrama de classe](https://github.com/user-attachments/assets/6a9b3ff3-c2c8-4445-9393-52cc7b4c127e)
+
 
 ***2.9. Protótipos***
 
