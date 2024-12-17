@@ -310,7 +310,8 @@ Para garantir a proteção dos meus dados e a segurança no armazenamento de inf
 
 ***2.7. Diagramas de Atividades***
 
-![Untitled diagram-2024-12-10-013519](https://github.com/user-attachments/assets/a175ef40-b5b1-4228-9039-965b2a772185)
+![DiagramaAtividade](https://github.com/user-attachments/assets/36608786-9a6f-4725-93db-d96da08523b9)
+
 
 
 ***2.8. Diagram de Classe***
