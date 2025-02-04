@@ -335,7 +335,8 @@ Para garantir a proteção dos meus dados e a segurança no armazenamento de inf
 
 ***2.9. Protótipos***
 
-![image](https://github.com/user-attachments/assets/b1964262-ca19-4984-921f-e26414ebb548)
+![image](https://github.com/user-attachments/assets/8befa7dc-f09b-4ed8-8711-b98581d3d012)
+
 
 ## Referências
 
