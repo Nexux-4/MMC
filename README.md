@@ -122,7 +122,18 @@ A integração e automação proporcionadas pelo MMC permitem que Judite e Maria
 
 ***2.1. Requisitos Funcionais***
 
-![requisitos funcionais](https://github.com/user-attachments/assets/5812066f-400c-4201-bb41-2a7ddc67f7a5)
+| Identificador | Descrição | Prioridade |
+|--------------|-----------|------------|
+| RF01 | O sistema deve permitir que o usuário consulte, adicione, edite e remova produtos do estoque, incluindo informações como quantidade, preço, validade e descrição. | Alta |
+| RF02 | O sistema deve permitir gerar relatórios detalhados e gráficos que apresentem receitas, despesas, lucros, fluxo de caixa e vendas diárias, semanais ou mensais. | Alta |
+| RF03 | O sistema deve possibilitar o cadastro, edição e exclusão de clientes e fornecedores, incluindo informações como nome, contato, histórico de compras/vendas e pagamentos realizados. | Média |
+| RF04 | O sistema deve realizar transações de venda com cálculos automáticos de valores, aplicação de descontos e emissão de recibos ou notas fiscais. | Alta |
+| RF05 | O sistema deve permitir o registro, consulta e acompanhamento de feedbacks dos clientes sobre produtos e serviços, com opções para marcar o status. | Baixa |
+| RF06 | O sistema deve enviar alertas para o usuário sobre produtos com baixa quantidade em estoque ou validade próxima do vencimento. | Média |
+| RF07 | O sistema deve fornecer uma interface inicial com informações consolidadas em tempo real sobre vendas, estoque, fluxo de caixa e desempenho geral. | Alta |
+| RF08 | O sistema deve disponibilizar uma funcionalidade de pesquisa para localizar produtos, clientes, fornecedores ou transações rapidamente. | Média |
+| RF09 | O sistema deve implementar autenticação e controle de acesso, definindo diferentes níveis de permissão para usuários, como administradores e operadores. | Alta |
+| RF10 | O sistema deve conectar o sistema a terminais de ponto de venda (PDV) para automatizar a entrada de vendas no sistema e manter os dados sincronizados em tempo real. | Alta |
 
                          
 ***2.2. Requisitos Não Funcionais***
