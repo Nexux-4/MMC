@@ -306,7 +306,7 @@ Para garantir a proteção dos meus dados e a segurança no armazenamento de inf
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+![image](https://github.com/user-attachments/assets/b1964262-ca19-4984-921f-e26414ebb548)
 
 ***2.7. Diagramas de Atividades***
 
