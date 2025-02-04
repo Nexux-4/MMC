@@ -335,10 +335,9 @@ Para garantir a proteção dos meus dados e a segurança no armazenamento de inf
 ***2.9. Protótipos***
 
 ![image](https://github.com/user-attachments/assets/0284cc01-51b0-4708-9b8b-df20f54bbb44)
-![pork](https://github.com/user-attachments/assets/545018cf-b1c5-4c45-9e91-9abdd95be801)
 
 
-
+![porco2](https://github.com/user-attachments/assets/31da5529-735f-4846-a374-f947dc7cdfc2)
 
 ## Referências
 
