@@ -327,7 +327,6 @@ Para garantir a proteção dos meus dados e a segurança no armazenamento de inf
 ![DiagramaAtividade](https://github.com/user-attachments/assets/36608786-9a6f-4725-93db-d96da08523b9)
 
 
-
 ***2.8. Diagram de Classe***
 
 ![diagrama de classe](https://github.com/user-attachments/assets/6a9b3ff3-c2c8-4445-9393-52cc7b4c127e)
@@ -336,6 +335,8 @@ Para garantir a proteção dos meus dados e a segurança no armazenamento de inf
 ***2.9. Protótipos***
 
 ![image](https://github.com/user-attachments/assets/0284cc01-51b0-4708-9b8b-df20f54bbb44)
+![pork](https://github.com/user-attachments/assets/545018cf-b1c5-4c45-9e91-9abdd95be801)
+
 
 
 
